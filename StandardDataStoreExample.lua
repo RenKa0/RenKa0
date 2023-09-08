@@ -26,12 +26,17 @@ local function getData(player: Player)
     end)
 end
 
-local function saveData(player: Player)
+local function saveData(player: Player, doRemove)
     return promise.new(function(resolve)
         if profiles[player] then
-            resolve(dataStore:UpdateAsync("Player_" .. player.UserId, function()
+            dataStore:UpdateAsync("Player_" .. player.UserId, function()
                 return profiles[player]
-            end))
+            end)
+
+            if doRemove then
+                profiles[player] = nil
+            end
+            resolve()
         else
             resolve()
         end
