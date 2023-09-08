@@ -1,7 +1,7 @@
 
 # Introduction
 
-I am a full-stack programmer from Colombia with 2 years of experience and I am on the platform since 2017 (starting from another account) which has brought 12.5M+ visits to the platform.
+I am a full-stack programmer from Colombia with 3 years of experience and I am on the platform since 2017 (starting from another account) which has brought 12.5M+ visits to the platform.
 
 My motivations and focus are always in creating complex, optimized, functional and expandable systems.
 
