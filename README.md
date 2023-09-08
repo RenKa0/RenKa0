@@ -23,6 +23,13 @@ In this repository, you can find samples of my code, in case you know about prog
 **Why do I need to publish the game in order to test it?**
 - The showcase contains a practical example of my basic way of working with DataStore.
 
+**Game controls:**
+- **1, 2, 3, 4, 5** to select a dummy or clicking on the hotbar.
+- **Q** to cancel placement.
+- **Left click** to select or place a tower.
+
+*The place will be updated soon.*
+
 Mini showcase of a interesting menu UI effect.
 https://streamable.com/lzaono
 
