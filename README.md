@@ -18,7 +18,7 @@ In this repository, you can find samples of my code, in case you know about prog
 
 [Here's](https://drive.google.com/file/d/1Ub3gRo5lYYAqcagEzAxRs0vXDW5vAFVp/view?usp=sharing) a place with basic VFX implementation:
 
-![Gif](https://github.com/RenKa001/Portfolio-WIP/assets/119909665/54c44377-2086-4d6c-9d0c-f190f2f6cb3b)
+![AnotherGif](https://github.com/RenKa001/Portfolio-WIP/assets/119909665/b6751df4-aa7b-4f23-9463-f0cace1b04d0)
 
 **Why do I need to publish the game in order to test it?**
 - The showcase contains a practical example of my basic way of working with DataStore.
