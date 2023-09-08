@@ -1,9 +1,9 @@
 
 # Introduction
 
-I am a full-stack programmer from Colombia with 2 years of experience and have been on the platform since 2017 (starting from another account).
+I am a full-stack programmer from Colombia with 2 years of experience and I am on the platform since 2017 (starting from another account) which has brought 12.5M+ visits to the platform .
 
-My motivations and focus are always on creating complex, optimized, functional, and expandable systems
+My motivations and focus are always in creating complex, optimized, functional and expandable systems.
 
 I count on experience in sections such as:
 - Implementing and working with VFX (I don't create them)
@@ -17,6 +17,8 @@ In this repository, you can find samples of my code, in case you know about prog
 ## VFX demo and basic optimization showcase
 
 [Here's](https://drive.google.com/file/d/1Ub3gRo5lYYAqcagEzAxRs0vXDW5vAFVp/view?usp=sharing) a place with basic VFX implementation:
+
+![Gif](https://github.com/RenKa001/Portfolio-WIP/assets/119909665/54c44377-2086-4d6c-9d0c-f190f2f6cb3b)
 
 **Why do I need to publish the game in order to test it?**
 - The showcase contains a practical example of my basic way of working with DataStore.
