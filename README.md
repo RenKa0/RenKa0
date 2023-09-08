@@ -16,7 +16,7 @@ I count on experience in sections such as:
 In this repository, you can find samples of my code, in case you know about programming and are directly interested in seeing how my programming style and practices work.
 ## VFX demo and basic optimization showcase
 
-[Here's](https://www.roblox.com/games/11596954214/RenKaDis-Place-Number-69) a place with basic VFX implementation:
+[Here's](https://www.roblox.com/games/11596954214/VFX-work-showcase) a place with basic VFX implementation:
 
 ![AnotherGif](https://github.com/RenKa001/Portfolio-WIP/assets/119909665/b6751df4-aa7b-4f23-9463-f0cace1b04d0)
 
