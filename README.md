@@ -24,7 +24,7 @@ In this repository, you can find samples of my code, in case you know about prog
 - The showcase contains a practical example of my basic way of working with DataStore.
 
 Mini showcase of a interesting menu UI effect.
-https://streamable.com/vkv8og
+https://streamable.com/lzaono
 
 ## DataStore
 [Here's](https://github.com/RenKa001/Code-showcase/blob/main/StandardDataStoreExample.lua) a code showcase of my basic way to work with DataStores using [Promises](https://eryn.io/roblox-lua-promise/)
