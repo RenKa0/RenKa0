@@ -17,7 +17,7 @@ I count on experience in sections such as:
 I can do a variety of systems; however, I have my limitations.
 My forte is backend, but as I said, I am a full-stack programmer. I can do a lot of what you want me to do; I am good at mathematics like trigonometry, CFrames (I hate and love this 😭) and other basic mathematical operations needed to game development.
 
-Like the effect I did in my basic VFX implementation sample to give that mouse movrment effect for the dummy.
+Like the effect I did in my basic VFX implementation sample to give that mouse movement effect for the dummy.
 
 ```lua
 local direction = (ray.Position - towerToSpawn:GetPivot().Position) * 16
