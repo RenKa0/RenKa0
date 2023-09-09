@@ -19,7 +19,7 @@ I count on experience in sections such as:
 
 Like the effect I did in my basic VFX implementation sample to give that effect of moving the dummy with your mouse.
 
-```
+```lua
 local direction = (ray.Position - towerToSpawn:GetPivot().Position) * 16
 local rotationRadian = math.rad(rotation)
 local cosR = math.cos(rotationRadian)
