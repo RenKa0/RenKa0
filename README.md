@@ -13,9 +13,9 @@ I count on experience in sections such as:
 - I know how to work with frameworks such as [**Knit**](https://sleitnick.github.io/Knit/) and [**Nevermore Engine**](https://quenty.github.io/NevermoreEngine/).
 - I normally work with Rojo and Git.
 
-> [!What can I do?]
-> I can do a variety of systems; however, I have my limitations.
-> My forte is backend, but as I said, I am a full-stack programmer. I can do a lot of what you want me to do; I am good at mathematics like trigonometry and physics.
+## What can I do?
+I can do a variety of systems; however, I have my limitations.
+My forte is backend, but as I said, I am a full-stack programmer. I can do a lot of what you want me to do; I am good at mathematics like trigonometry and physics.
 
 Like the effect I did in my basic VFX implementation sample to give that effect of moving the dummy with your mouse.
 
