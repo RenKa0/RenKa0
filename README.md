@@ -13,6 +13,35 @@ I count on experience in sections such as:
 - I know how to work with frameworks such as [**Knit**](https://sleitnick.github.io/Knit/) and [**Nevermore Engine**](https://quenty.github.io/NevermoreEngine/).
 - I normally work with Rojo and Git.
 
+## What can I do?
+
+I can do a variety of systems; however, I have my limitations.
+
+My forte is backend, but as I said, I am a full-stack programmer. I can do a lot of what you want me to do; I am good at mathematics like trigonometry and physics.
+
+Like the effect I did in my basic VFX implementation sample to give that effect of moving the dummy with your mouse.
+
+```
+local direction = (ray.Position - towerToSpawn:GetPivot().Position) * 16
+				local rotationRadian = math.rad(rotation)
+				local cosR = math.cos(rotationRadian)
+				local sinR = math.sin(rotationRadian)
+				local relativeDir = Vector3.new(
+					direction.X * cosR - direction.Z * sinR,
+					direction.Y,
+					direction.X * sinR + direction.Z * cosR
+				)
+
+				towerToSpawn:PivotTo(towerToSpawn:GetPivot():Lerp(
+					CFrame.new(ray.Position.X, y, ray.Position.Z) *
+					CFrame.Angles(0, rotationRadian, 0) *
+					CFrame.Angles(math.rad(-relativeDir.Z), 0, math.rad(relativeDir.X)),
+					.25
+				))
+```
+
+I am always willing to keep good communication with my team and be motivated (I like money) to deliver all my assigned tasks.
+
 In this repository, you can find samples of my code, in case you know about programming and are directly interested in seeing how my programming style and practices work.
 ## VFX demo and basic optimization showcase
 
