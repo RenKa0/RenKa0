@@ -16,7 +16,8 @@ https://github.com/RenKa0/RenKa0/assets/119909665/de5349f9-3362-4b9c-afac-065690
 
 Tic-Tac-Toe game powered with React.
 
-https://github.com/RenKa0/RenKa0/assets/119909665/c6a8c691-1c38-406d-96bd-760e5cc11b82
+https://github.com/RenKa0/RenKa0/assets/119909665/9e1fa375-9154-4699-a503-8cdb00a442ff
+
 
 Tower Defense prototype with UI powered by Legacy Roact.
 
