@@ -1,7 +1,7 @@
 # About me
 I am a 18 years old full-stack programmer from Colombia with 3 years of experience and I am on the platform since 2016 (starting from another account) contributing 19M+ visits.
 
-My motivations and focus are always in creating complex, optimized, functional and expandable systems.
+My motivations and focus are always in creating complex, optimized, functional and expandable systems (this means that i like creating well maded stuff).
 
 ## What can I do?
 * I have a good knowledge of popular libraries, this also includes working with Frameworks and long code bases.
