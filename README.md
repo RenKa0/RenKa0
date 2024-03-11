@@ -4,10 +4,10 @@ I am a 18 years old full-stack programmer from Colombia with 3 years of experien
 My motivations and focus are always in creating complex, optimized, functional and expandable systems (this means that i like creating well maded stuff).
 
 ## What can I do?
-* I have a good knowledge of popular libraries, this also includes working with Frameworks and long code bases.
+* I have a good knowledge of popular libraries, this also includes working with Frameworks such as Nevermore Engine and Knit and long code bases.
 * I have a good knowledge with UI/UX, I work with UI libraries like [React-Lua](https://jsdotlua.github.io/react-lua/), [Fusion](https://elttob.uk/Fusion/0.2/) and [Blend](https://quenty.github.io/NevermoreEngine/api/Blend/). Most of my UI projects are powered with Fusion.
 * I have a strong knowledge with DataStores, they are so cool.
-* By inertia, I know how to do other systems such as combat, weapons, movement, and others. This doesn't mean that I can't make mistakes in them or that I'm the best at them; I'm always willing to strengthen my knowledge.
+* I know how to do other systems such as combat, weapons, movement, and others. This doesn't mean that I can't make mistakes in them or that I'm the best at them; I'm always willing to strengthen my knowledge.
 
 ## Videos
 Small ui desing with animations powered with Fusion.
