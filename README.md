@@ -10,7 +10,7 @@ My motivations and focus are always in creating complex, optimized, functional a
 * I know how to do other systems such as combat, weapons, movement, and others. This doesn't mean that I can't make mistakes in them or that I'm the best at them; I'm always willing to strengthen my knowledge.
 
 ## Videos
-Small ui desing with animations powered with Fusion.
+### Small ui desing with animations powered with Fusion.
 
 https://github.com/RenKa0/RenKa0/assets/119909665/de5349f9-3362-4b9c-afac-065690cc8312
 
@@ -18,7 +18,7 @@ Tic-Tac-Toe game powered with React.
 
 https://github.com/RenKa0/RenKa0/assets/119909665/9e1fa375-9154-4699-a503-8cdb00a442ff
 
-
 Tower Defense prototype with UI powered by Legacy Roact.
 
 https://github.com/RenKa0/RenKa0/assets/119909665/db98452f-d1e7-486b-b81a-f828817de02d
+
