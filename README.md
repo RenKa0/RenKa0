@@ -11,14 +11,20 @@ My motivations and focus are always in creating complex, optimized, functional a
 
 ## Videos
 ### Small ui desing with animations powered with Fusion.
-
 https://github.com/RenKa0/RenKa0/assets/119909665/de5349f9-3362-4b9c-afac-065690cc8312
 
-Tic-Tac-Toe game powered with React.
-
+### Tic-Tac-Toe game powered with React.
 https://github.com/RenKa0/RenKa0/assets/119909665/9e1fa375-9154-4699-a503-8cdb00a442ff
 
-Tower Defense prototype with UI powered by Legacy Roact.
-
+### Tower Defense prototype with UI powered by Legacy Roact.
 https://github.com/RenKa0/RenKa0/assets/119909665/db98452f-d1e7-486b-b81a-f828817de02d
+
+### Gun framework test
+https://github.com/RenKa0/RenKa0/assets/119909665/9c3b2eb9-8b59-46b5-98da-b6251de3e52b
+https://github.com/RenKa0/RenKa0/assets/119909665/0f544163-bfb9-420b-86d2-e210fe0cdb3e
+
+### Procedurally generated movement (It replicates without any remote event)
+Everything with cool math, no elseif for Humanoid direction! [Code here](https://github.com/RenKa0/RenKa0/blob/main/MovementThing.lua)
+https://github.com/RenKa0/RenKa0/assets/119909665/b54450e4-5e76-4688-a5df-810858d3efae
+https://github.com/RenKa0/RenKa0/assets/119909665/f155ca8a-a7e2-4ec6-9eb4-ddeb36e56092
 
