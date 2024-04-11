@@ -1,5 +1,5 @@
 # About me
-I am a 18 years old full-stack programmer from Colombia with 3 years of experience and I am on the platform since 2016 (starting from another account) contributing 19M+ visits.
+I am an 18-year-old full-stack programmer from Colombia with 3 years of experience. I am a fast and capable worker, and I have been on the platform since 2016 (starting from another account), contributing 20 million+ visits.
 
 My motivations and focus are always in creating complex, optimized, functional and expandable systems (this means that i like creating well maded stuff).
 
