@@ -10,7 +10,7 @@ My motivations and focus are always in creating complex, optimized, functional a
 * I know how to do other systems such as combat, weapons, movement, and others. This doesn't mean that I can't make mistakes in them or that I'm the best at them; I'm always willing to strengthen my knowledge.
 
 # Videos
-### Tower Defense prototype with UI powered by Legacy Roact.
+### Tower Defense prototype, client side rendering enemies and unities with UI powered by Legacy Roact.
 
 https://github.com/RenKa0/RenKa0/assets/119909665/db98452f-d1e7-486b-b81a-f828817de02d
 
