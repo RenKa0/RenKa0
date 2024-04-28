@@ -11,7 +11,7 @@ local characterMovements = {
 	currentPlayers = {}
 }
 
-local camera  =workspace.CurrentCamera
+local camera = workspace.CurrentCamera
 
 local EMPTY_CFRAME = CFrame.new()
 
