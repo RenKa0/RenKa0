@@ -77,11 +77,11 @@ players.PlayerAdded:Connect(onNewPlayer)
 runService.PostSimulation:Connect(function(deltaTimeSim: number)
 	local newDt: number = deltaTimeSim * 60
 
-	for player: Player, objects in characterMovements.currentPlayers do
+	for _, objects in characterMovements.currentPlayers do
 		if objects.Humanoid then
 			local _, onScreen = camera:WorldToScreenPoint(objects.RootPart.Position)
 			objects.Rendered = onScreen
-			
+
 			if onScreen then
 				local isHumanoidAlive: boolean = humanoidNotOnState(objects.Humanoid, "Dead")
 				local moveDirection: Vector3 = isHumanoidAlive and objects.RootPart.CFrame:VectorToObjectSpace(objects.Humanoid.MoveDirection) or Vector3.zero
@@ -95,14 +95,8 @@ runService.PostSimulation:Connect(function(deltaTimeSim: number)
 					tiltZ = objects.RootPart.CFrame.RightVector:Dot(direction)
 				end
 
-				local rootTiltZ, leftHipTiltY, rightHipTiltY = 0, 0, 0
-				if objects.Humanoid.MoveDirection:Dot(objects.RootPart.CFrame.LookVector) > -0.1 then
-					leftHipTiltY = math.rad(-tiltZ * 40)
-					rightHipTiltY = math.rad(-tiltZ * 40)
-				else
-					leftHipTiltY = math.rad(tiltZ * 40)
-					rightHipTiltY = math.rad(tiltZ * 40)
-				end
+                local leftHipTiltY = objects.Humanoid.MoveDirection:Dot(objects.RootPart.CFrame.LookVector) > -0.1 and math.rad(-tiltZ * 40)
+                    or math.rad(tiltZ * 40)
 
 				local lerpAlpha = normalizedVel.magnitude > 3 and 0.08 or 0.35
 				objects.leftHipJoint.C0 = objects.leftHipJoint.C0:Lerp((objects.leftHipC0) * CFrame.Angles(0, leftHipTiltY, 0), lerpAlpha * newDt)
